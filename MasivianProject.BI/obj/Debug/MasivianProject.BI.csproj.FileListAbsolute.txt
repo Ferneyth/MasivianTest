@@ -1,0 +1,5 @@
+D:\Proyectos\Net\MasivianProject\MasivianProject.BI\bin\Debug\MasivianProject.BI.dll
+D:\Proyectos\Net\MasivianProject\MasivianProject.BI\bin\Debug\MasivianProject.BI.pdb
+D:\Proyectos\Net\MasivianProject\MasivianProject.BI\obj\Debug\MasivianProject.BI.csproj.CoreCompileInputs.cache
+D:\Proyectos\Net\MasivianProject\MasivianProject.BI\obj\Debug\MasivianProject.BI.dll
+D:\Proyectos\Net\MasivianProject\MasivianProject.BI\obj\Debug\MasivianProject.BI.pdb
